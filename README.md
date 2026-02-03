@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hello, My name is Jonathan
 
-<!--
-**JonathanKorakas/JonathanKorakas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a ref ="https://www.linkedin.com/in/jonathan-korakas/"> <img src="https://img.shields.io/badge/LinkedIn-0072b1?&style=for-the-badge&logoColor=white"> </a>
 
-Here are some ideas to get you started:
+## Breif Introduction
+I am a recent graduate who is looking to get into the field of Cybersecuirty after six years IT Support
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Objective
+After six years in IT Support, I am looking to step up my career in IT by moving to the Cybersecurity field, with the aim of joining a Security Operation Center (SOC) as a Tier 1 Analyst
+
+## Skills
+| Skill  |  Associated Project |
+|--------|---------------------|
+
+## Tools
+
+### Virualisation
+
+## Projects
+-
