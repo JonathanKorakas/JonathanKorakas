@@ -2,7 +2,7 @@
 
 <a ref ="https://www.linkedin.com/in/jonathan-korakas/"> <img src="https://img.shields.io/badge/LinkedIn-0072b1?&style=for-the-badge&logoColor=white"> </a>
 
-## Breif Introduction
+## Brief Introduction
 I am a recent graduate who is looking to get into the field of Cybersecuirty after six years IT Support
 
 ## Objective
