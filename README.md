@@ -9,8 +9,9 @@ I am a recent graduate who is looking to get into the field of Cybersecuirty aft
 After six years in IT Support, I am looking to step up my career in IT by moving to the Cybersecurity field, with the aim of joining a Security Operation Center (SOC) as a Tier 1 Analyst
 
 ## Skills
-| Skill  |  Associated Project |
-|--------|---------------------|
+| Skill                           | Associated Project |
+|---------------------------------|---------------------|
+| Virtual Machine Setup and Use   | Home Lab            |
 
 ## Tools
 
